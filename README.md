@@ -22,5 +22,7 @@ This workshop series is designed to **introduce and guide students** through key
 ### **[Day 4: Double It](https://www.facebook.com/share/v/18UUBzBHrx/)** (Trainer: **Tayyab Zain**)  
 ### **[Day 5: Debugging](https://www.facebook.com/share/v/1A77Tbp1Qx/)** (Trainer: **Muhammad Hamza Hassaan**)  
 
-
 🚀 **Happy Learning!**  
+
+
+<img src="https://github.com/M-Hamza-Hassaan/Become-Student-Leader/raw/main/Workshops.jpg" alt="Workshop Image" width="600" height="600">
