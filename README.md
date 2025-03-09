@@ -24,5 +24,4 @@ This workshop series is designed to **introduce and guide students** through key
 
 🚀 **Happy Learning!**  
 
-
-<img src="https://github.com/M-Hamza-Hassaan/Become-Student-Leader/raw/main/Workshops.jpg" alt="Workshop Image" width="600" height="600">
+<img src="https://github.com/M-Hamza-Hassaan/Become-Student-Leader/raw/main/Workshops.jpg" alt="Workshop Image" width="450">
