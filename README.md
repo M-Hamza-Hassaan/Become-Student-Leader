@@ -10,7 +10,7 @@ This workshop series is designed to **introduce and guide students** through key
 ## 🎓 Trainers  
 - **[Nouman Muneeb](https://www.linkedin.com/in/nouman-munib/)**  
 - **[Ubaid Ur Rehman](https://www.linkedin.com/in/iubaidrmn/)**  
-- **Muhammad Omar**  
+- **[Muhammad Omar](https://Www.linkedin.com/in/umarmajeedofficial)**  
 - **[Tayyab Zain](https://www.linkedin.com/in/tayyab-zain-ba7b7822a/)**  
 - **[Muhammad Hamza Hassaan](https://www.linkedin.com/in/muhammad-hamza-hassaan/)**
 ---
