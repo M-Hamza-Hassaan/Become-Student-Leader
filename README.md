@@ -8,8 +8,8 @@ Welcome to the **Stanford Code in Place 2025** workshop series! 🚀
 This workshop series is designed to **introduce and guide students** through key programming concepts, helping them take their first steps in the world of coding. If you have any questions, feel free to reach out to us!  
 
 ## 🎓 Trainers  
+- **Nouman Muneeb**  
 - **Ubaid Ur Rehman**  
-- **XYZ**  
 - **Muhammad Omar**  
 - **Tayyab Zain**  
 - **Muhammad Hamza Hassaan**
@@ -17,10 +17,10 @@ This workshop series is designed to **introduce and guide students** through key
   ---
 ## 📚 Workshop Sessions  
 
-### **[Day 1: Tell About Yourself](https://www.facebook.com/share/v/18qpkKwhQP/)** (Trainer: **Ubaid Ur Rehman**)  
+### **[Day 1: Tell About Yourself](https://www.facebook.com/share/v/18qpkKwhQP/)** (Trainer: **Nouman Muneeb**)  
 📌  
 
-### **[Day 2: Demo Video](https://www.facebook.com/iCodeguru/videos/1128294625763303)** (Trainer: **XYZ**)  
+### **[Day 2: Demo Video](https://www.facebook.com/iCodeguru/videos/1128294625763303)** (Trainer: **Ubaid Ur Rehman**)  
 📌  
 
 ### **[Day 3: Karel](https://www.facebook.com/iCodeguru/videos/1547118415970148)** (Trainer: **Muhammad Omar**)  
