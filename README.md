@@ -8,10 +8,10 @@ Welcome to the **Stanford Code in Place 2025** workshop series! 🚀
 This workshop series is designed to **introduce and guide students** through key programming concepts, helping them take their first steps in the world of coding. If you have any questions, feel free to reach out to us!  
 
 ## 🎓 Trainers  
-- **Nouman Muneeb**  
-- **Ubaid Ur Rehman**  
+- **[Nouman Muneeb](https://www.linkedin.com/in/nouman-munib/)**  
+- **[Ubaid Ur Rehman](https://www.linkedin.com/in/iubaidrmn/)**  
 - **Muhammad Omar**  
-- **Tayyab Zain**  
+- **[Tayyab Zain](https://www.linkedin.com/in/tayyab-zain-ba7b7822a/)**  
 - **[Muhammad Hamza Hassaan](https://www.linkedin.com/in/muhammad-hamza-hassaan/)**
 ---
 ## 📚 Workshop Sessions  
