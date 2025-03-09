@@ -12,7 +12,7 @@ This workshop series is designed to **introduce and guide students** through key
 - **Ubaid Ur Rehman**  
 - **Muhammad Omar**  
 - **Tayyab Zain**  
-- **Muhammad Hamza Hassaan**
+- **[Muhammad Hamza Hassaan](https://www.linkedin.com/in/muhammad-hamza-hassaan/)**
 ---
 ## 📚 Workshop Sessions  
 
