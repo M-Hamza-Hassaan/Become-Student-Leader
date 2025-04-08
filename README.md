@@ -23,5 +23,6 @@ This workshop series is designed to **introduce and guide students** through key
 ### **[Day 5: Debugging](https://www.facebook.com/share/v/1A77Tbp1Qx/)** (Trainer: **Muhammad Hamza Hassaan**)  
 
 🚀 **Happy Learning!**  
+### **[The Linkedin Post](https://www.linkedin.com/posts/muskaan-831133179_cip-pakistan-5abrday-activity-7304623343331065857-w4Lk?utm_source=share&utm_medium=member_android&rcm=ACoAAD-_PRUBQXgWwEoyxOYJyjter0cg1fhPaVk)**
 
 <img src="https://github.com/M-Hamza-Hassaan/Become-Student-Leader/raw/main/Workshops.jpg" alt="Workshop Image" width="450">
